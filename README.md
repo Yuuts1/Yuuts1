@@ -1,11 +1,9 @@
 ### 👋 Hi, I’m Italo
 
-- I’m interested in web development...
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuuts1&show_icons=true&theme=radical)
 
 
-### Formation 
+### Formação
 
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
