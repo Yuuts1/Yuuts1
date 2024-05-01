@@ -7,12 +7,9 @@
 
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
-- HTML, CSS & JavaScript - Udemy
-- Desenvolvimento Mobile - Univesp - SP
-- Logica de Programação - Univesp - SP
-- Banco de dados - Univesp - SP
 
 ### Skills
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### OS
@@ -21,4 +18,4 @@
 
 ### IDE
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=atom,vscode=3)](https://skillicons.dev)
