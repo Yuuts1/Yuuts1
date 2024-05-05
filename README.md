@@ -5,7 +5,7 @@
 
 ### Formação
 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+Análise e Desenvolvimento de Sistemas "FMU"
 
 
 ### Skills
