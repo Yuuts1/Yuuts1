@@ -13,7 +13,7 @@ Responsive Web Design Certification by freecodecamp.org
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,lua,python)](https://skillicons.dev)
 
 ### OS
 
@@ -21,4 +21,4 @@ Responsive Web Design Certification by freecodecamp.org
 
 ### IDE
 
-[![My Skills](https://skillicons.dev/icons?i=atom,vscode=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
