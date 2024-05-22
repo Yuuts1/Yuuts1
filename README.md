@@ -7,10 +7,6 @@
 
 Análise e Desenvolvimento de Sistemas "FMU"
 
-### Cursos
-
-Responsive Web Design Certification by freecodecamp.org
-
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,lua,python)](https://skillicons.dev)
