@@ -1,7 +1,6 @@
 ### Hi, I’m Italo 
 
-I am a undergrate technology at FMU 
-I love technology...
+I am a undergrate technology at FMU
 
 Currently learning Java and Pyhton
 
