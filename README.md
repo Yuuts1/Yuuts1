@@ -4,14 +4,14 @@ I am a undergrate technology at FMU
 
 Currently learning Java and Pyhton
 
-### About Me:
+### About Me
 
-### Formação:
+### Formação
 
   * Análise e Desenvolvimento de Sistemas "FMU"
   * 2° Semestre
 
-### Skills:
+### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,lua)](https://skillicons.dev)
 
