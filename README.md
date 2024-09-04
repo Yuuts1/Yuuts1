@@ -5,16 +5,9 @@
 
 ### Formação
 
-Análise e Desenvolvimento de Sistemas "FMU"
+  * Análise e Desenvolvimento de Sistemas "FMU"
+  * 2° Semestre
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,lua,python)](https://skillicons.dev)
-
-### OS
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### IDE
-
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,lua)](https://skillicons.dev)
